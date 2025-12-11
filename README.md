@@ -10,3 +10,7 @@ Solomon Olshen:
 Soycott Razzak:
   - RTC module code and wiring, DHT11 code and wiring, LCD1602 code and wiring, LEDs code and wiring, and parts of the system functions/logic, and joystick code and wiring.
   - Focused on the Hardware implementation. 
+
+Video Notes:
+-The buzzer was unplugged at some point
+- I could not record the tracking capabilities with the phone in hand because it began to interfere with the sensor signal severely

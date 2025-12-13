@@ -12,6 +12,7 @@ Soycott Razzak:
   - Focused on the Hardware implementation. 
 
 Video Notes:
--The buzzer was unplugged at some point
+- PLEASE USE THE YOUTUBE LINK IN SUBMISSION COMMENTS
+- The buzzer was unplugged at some point
 - I could not record the tracking capabilities with the phone in hand because it began to interfere with the sensor signal severely
 - I forgot to comment on it, but the search mode changed to "manual" in the LCD when in manual state
